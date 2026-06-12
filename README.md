@@ -234,21 +234,3 @@ This project helped me practice:
 * similarity calculation
 * recommendation system logic
 * working with movie metadata
-
-## Future Improvements
-
-This project can be improved by:
-
-* adding genres to the recommendation features
-* adding cast and director information
-* using cosine similarity instead of sigmoid kernel
-* creating a Streamlit web application
-* adding a movie search bar
-* building a hybrid recommendation system
-* combining content-based filtering with collaborative filtering
-
-## Conclusion
-
-This project demonstrates how to build a simple movie recommendation system using content-based filtering.
-
-The system analyzes movie descriptions, converts them into numerical vectors using TF-IDF, calculates similarity between movies, and recommends the most similar movies based on content.
